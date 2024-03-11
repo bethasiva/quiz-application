@@ -1,0 +1,26 @@
+[
+    {
+        "id": "jmfoisajf",
+        "task_condition": "Choose the right answer",
+        "task_text": "Which shape shows thirds ?",
+        "task_image": "/assets/task_img.png",
+        "answer_options": {
+            "A": "C",
+            "B": "A",
+            "C": "B"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "id": "cmpfewo",
+        "task_condition": "Choose the right answer",
+        "task_text": "Which circle is divided into 4 parts ?",
+        "task_image": "/assets/task_img.png",
+        "answer_options": {
+            "A": "A",
+            "B": "B",
+            "C": "C"
+        },
+        "correct_answer": "C"
+    }
+]
